@@ -1,0 +1,2 @@
+It is a game called TICTACTOE which you all know about. I made it with the help of YouTube for learning purposes. In this, I learned about the GridView in XML & how an XML file is integrated with a JAVA file.
+I know that the UI is not good as at this stage my intention is not to improve the UI, My intention is just to understand the logic behind this game. So with a sound knowledge of XML, I made the UI & then understood the logic.
